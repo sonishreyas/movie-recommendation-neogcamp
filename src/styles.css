@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button {
+  color: black;
+  border-radius: 0.5rem;
+  border: 1px solid black;
+  box-sizing: border-box;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 20%;
+  display: inline;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  background-color: lightgrey;
+}
+
+.movies-box {
+  color: black;
+  border-radius: 1rem;
+  border: 1px solid black;
+  text-decoration: none;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 600px;
+  height: 4rem;
+  padding-left: 1rem;
+  text-align: left;
+}
+
+.container {
+  padding: 0rem 1rem;
+}
+
+.container-center {
+  max-width: 600px;
+  margin: auto;
+}
